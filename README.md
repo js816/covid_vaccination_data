@@ -14,10 +14,11 @@ Data as of 2/21/2022
 
 ## Region vaccination rates
 
-![image](https://user-images.githubusercontent.com/82730954/154997767-0641bd90-b955-4b77-9674-016da74ea8c8.png)
+![image](https://user-images.githubusercontent.com/82730954/155016180-00ce8754-9678-43dc-bb0d-015ed0f29acc.png)
 
 <hr>
 
 ## Division vaccination rates
 
-![image](https://user-images.githubusercontent.com/82730954/154997894-dbae2dad-8d1e-4e97-b182-baf6e755f279.png)
+![image](https://user-images.githubusercontent.com/82730954/155016136-68273495-1782-420f-9b16-0407ee4b09d6.png)
+
