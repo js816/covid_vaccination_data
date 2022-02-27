@@ -8,17 +8,38 @@ Data as of 2/21/2022
 
 ## State vaccination rates
 
-![vaccination_rates_by_state](https://user-images.githubusercontent.com/82730954/154967414-7af375fe-3c98-458b-bed1-36e7fdded6af.JPG)
+![image](https://user-images.githubusercontent.com/82730954/155883553-18d44a8d-a5a0-48f6-b09f-f87c68f43e81.png)
 
 <hr>
 
 ## Region vaccination rates
 
-![image](https://user-images.githubusercontent.com/82730954/155016180-00ce8754-9678-43dc-bb0d-015ed0f29acc.png)
+![image](https://user-images.githubusercontent.com/82730954/155883547-c5c61c5c-cc33-44a9-b0f5-01868d774d20.png)
 
 <hr>
 
 ## Division vaccination rates
 
-![image](https://user-images.githubusercontent.com/82730954/155016136-68273495-1782-420f-9b16-0407ee4b09d6.png)
+![image](https://user-images.githubusercontent.com/82730954/155883477-f448c992-f1e5-4151-994f-d5ee8657b04a.png)
 
+<hr>
+
+## USA overall rate
+
+![image](https://user-images.githubusercontent.com/82730954/155883568-2f2a44e1-e0b8-4a9b-a9b2-71d2710e98f4.png)
+
+<hr>
+
+## Region, division, state chart with US average
+
+![image](https://user-images.githubusercontent.com/82730954/155883471-ac297115-86ed-4291-82ff-21bbfbb20d9d.png)
+
+<hr>
+
+## Parameter chart with US average, allowing end user to select desired dimension
+
+![image](https://user-images.githubusercontent.com/82730954/155883518-e5b1ec4c-0a43-467d-88e3-c3adb729bab9.png)
+
+<hr>
+
+Used custom territory mapping in Tableau as explained in [Innovative Tableau: 100 More Tips, Tutorials, and Strategies] (https://www.amazon.com/Innovative-Tableau-More-Tutorials-Strategies/dp/1492075655)
