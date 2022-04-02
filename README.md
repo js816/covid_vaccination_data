@@ -4,7 +4,9 @@ Data source and details:  [Bloomberg Covid-19 Vaccine Tracker Open Data](https:/
 
 [Tableau Public Link](https://public.tableau.com/app/profile/josh.stephens6499/viz/covid_vaccination_rates/CovidVaccinationRates?publish=yes)
 
-Data as of 2/21/2022
+Data as of 4/2/2022
+
+Added dashboard and LOD to calculate overall average for view or states/areas selected.  Also updated data.
 
 ## State vaccination rates
 
